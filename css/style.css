@@ -13,3 +13,16 @@ p {
 	color: #973007;
 	font-size: 7px;
 }
+
+nav {
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+
+a,
+a:link,
+a:active,
+a:visited {
+	text-decoration: none;
+	color: aqua;
+}
