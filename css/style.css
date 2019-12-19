@@ -35,6 +35,18 @@ a:visited {
 	background-position: center;
 }
 
+#top nav a i {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	font-size: 26px;
+	border-radius: 100%;
+	background-color: #ffd117;
+	color: #fff;
+	text-align: center;
+}
+
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
